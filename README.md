@@ -9,3 +9,5 @@ Assignment operators: Assignment, addition assignment, subtraction assignment, m
 Ternary operator: Conditional assignment.   
 Increment and decrement operators: Pre-increment, post-increment, pre-decrement, and post-decrement.
 The code provides clear explanations and examples for each operator, making it an excellent resource for learning and understanding Java operators.
+![Screenshot 2024-11-14 000510](https://github.com/user-attachments/assets/f66d9ea9-cde2-4566-aa82-a1964beb9860)
+![Screenshot 2024-11-13 235505](https://github.com/user-attachments/assets/7011299d-489d-4c24-9b65-2999187a8c03)
